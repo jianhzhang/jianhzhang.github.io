@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
+# <img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
 
 Here is **Jianhan Zhang (张剑寒)**.
 
@@ -14,7 +14,7 @@ Here is [[my CV](https://jianhzhang.github.io/file/jianhan_zhang_cv_23_9_14)].
 
 <br>
 
-## Academic Background
+## Education
 
 ** Ph.D. in Economics, Guelph University, 2024(expected)
 ** M.S. in Economics, Central University of Finance and Economics, 2019
@@ -25,7 +25,6 @@ Here is [[my CV](https://jianhzhang.github.io/file/jianhan_zhang_cv_23_9_14)].
 
 ---
 ## Working papers
-Now my reseach mainly forcus on solving endogeneity problem in a Threshold regression model.
 
 Endogeneity kink threshold regression model,
 (Jianhan Zhang, Chaoyi Chen, Yiguo Sun and Thanasis Stengos)
@@ -38,6 +37,11 @@ Robust Gmm Estimator of Errors-in-Variables model
 (Jianhan Zhang, Yiguo Sun)
 
 <br>
+
+## Teaching
+
+Econ 2740 Economic stastics(2nd year undergraduate student) University of Guelph  Fall 2023  [[outline](https://jianhzhang.github.io/file/ECON_2740_03_F23.pdf)].
+
 
 ---
 
