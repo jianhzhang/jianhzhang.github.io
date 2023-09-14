@@ -26,20 +26,20 @@ Here is [[my CV](https://jianhzhang.github.io/file/jianhan_zhang_cv_23_9_14)].
 ## Working papers
 
 Endogeneity kink threshold regression model,  
-(Jianhan Zhang, Chaoyi Chen, Yiguo Sun and Thanasis Stengos)  
-
-Threshold regression model with mismeasured variables,  
+(Jianhan Zhang, Chaoyi Chen, Yiguo Sun and Thanasis Stengos)    
+Threshold regression model with mismeasured variables,    
 (Jianhan Zhang, Yiguo Sun)  
 
 ## Working in process 
-Robust Gmm Estimator of Errors-in-Variables model  
+Robust Gmm Estimator of Errors-in-Variables model    
 (Jianhan Zhang, Yiguo Sun)  
 
 <br>
 
 ## Teaching
 
-Econ 2740 Economic stastics(2nd year undergraduate student) University of Guelph  Fall 2023  [[outline](https://jianhzhang.github.io/file/ECON_2740_03_F23.pdf)].
+Econ 2740 Economic stastics(2nd year undergraduate student)  
+University of Guelph  Fall 2023  [[outline](https://jianhzhang.github.io/file/ECON_2740_03_F23.pdf)].
 
 
 ---

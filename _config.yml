@@ -33,11 +33,9 @@ links:
   - title: About Me
     url: /
   - title: Resume
-    url: /file/CV-HanlinCAI.pdf
-  - title: Working papaers
-    url: /publications/
-  - title: Teaching
-    url: /teachings/
+    url: /file/jianhan_zhang_cv_23_9_14.pdf
+
+ 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
