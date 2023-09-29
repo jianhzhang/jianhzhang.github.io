@@ -7,7 +7,7 @@ layout: page
 
 Here is **Jianhan Zhang (张剑寒)**.      
 I am a fifth PhD. student majoring in Economics at Guelph University(CA). My research interests are econeomtric theory and applied.   
-Most of my works are under the supervision of [Prof. Thanasis Stengos](https://www.uoguelph.ca/lang/people/thanasis-stengos) and [Prof. Yiguo Sun](https://sites.google.com/view/yisun/home). 
+Most of my works are under the supervision of [Prof. Thanasis Stengos](https://www.uoguelph.ca/lang/people/thanasis-stengos) and [Prof. Yiguo Sun](https://www.uoguelph.ca/lang/people/yiguo-sun). 
 Here is [[my CV](https://jianhzhang.github.io/file/jianhan_zhang_cv_23_9_14.pdf)].  
 <br>
 
@@ -22,13 +22,13 @@ Here is [[my CV](https://jianhzhang.github.io/file/jianhan_zhang_cv_23_9_14.pdf)
 ---
 ## Working papers  
 Endogeneity kink threshold regression model,  
-(Jianhan Zhang, Chaoyi Chen, Yiguo Sun and Thanasis Stengos)    
+(Jianhan Zhang, [Chaoyi Chen](https://www.chenchaoyi.com), [Yiguo Sun](https://www.uoguelph.ca/lang/people/yiguo-sun) and [Thanasis Stengos](https://www.uoguelph.ca/lang/people/thanasis-stengos))    
 Threshold regression model with mismeasured variables,    
-(Jianhan Zhang, Yiguo Sun)  
+(Jianhan Zhang,[Yiguo Sun](https://www.uoguelph.ca/lang/people/yiguo-sun))  
 
 ## Working in process 
 Robust Gmm Estimator of Errors-in-Variables model    
-(Jianhan Zhang, Yiguo Sun)  
+(Jianhan Zhang, [Yiguo Sun](https://www.uoguelph.ca/lang/people/yiguo-sun))  
 
 <br>
 
