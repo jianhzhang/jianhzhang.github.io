@@ -30,7 +30,7 @@ I am on the job market this year and Here is [[my CV](https://jianhzhang.github.
 **Threshold regression model with mismeasured variables**,    
 (**Jianhan Zhang**,[Yiguo Sun](https://www.uoguelph.ca/lang/people/yiguo-sun))   
 <br/> 
-**Abstruct**: We explore a threshold regression model that accommodates potential measurement errors in the regressors, offering valuable insights for the firm's investment model. It is imperative to account for both the mismeasurement of Tobin's $Q$ and the potential threshold effects arising from financial constraints. In the field of econometric theory, we enhance the conventional linear model by incorporating a threshold structure and employing the robust estimator known as the Median of Means (MoM). This approach is designed to address potential issues associated with heavy-tailed data distributions.
+**Abstruct**: We explore a threshold regression model that accommodates potential measurement errors in the regressors, offering valuable insights for the firm's investment model. It is imperative to account for both the mismeasurement of Tobin's Q and the potential threshold effects arising from financial constraints. In the field of econometric theory, we enhance the conventional linear model by incorporating a threshold structure and employing the robust estimator known as the Median of Means (MoM). This approach is designed to address potential issues associated with heavy-tailed data distributions.
 <br/>    
 <br/>  
 **Endogeneity kink threshold regression model with linear control function approach**  [[PDF]](https://jianhzhang.github.io/file/Kink_linear_main.pdf),[[Appendix]](https://jianhzhang.github.io/file/Kink_linear_app.pdf)  
