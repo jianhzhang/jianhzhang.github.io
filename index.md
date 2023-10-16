@@ -21,7 +21,7 @@ Here is [[my CV](https://jianhzhang.github.io/file/resume_jianhan.pdf)].
 
 ---
 ## Working papers  
-Endogeneity kink threshold regression model(To be resubmitted to JBES)  
+Endogeneity kink threshold regression model(Resubmitted to JBES)  
 [[PDF]](https://jianhzhang.github.io/file/Endogenous_kink.pdf),  
 (Jianhan Zhang, [Chaoyi Chen](https://www.chenchaoyi.com), [Yiguo Sun](https://www.uoguelph.ca/lang/people/yiguo-sun) and [Thanasis Stengos](https://www.uoguelph.ca/lang/people/thanasis-stengos))  
 <br/> 
