@@ -26,7 +26,12 @@ Endogeneity kink threshold regression model(Resubmitted to JBES)
 (Jianhan Zhang, [Chaoyi Chen](https://www.chenchaoyi.com), [Yiguo Sun](https://www.uoguelph.ca/lang/people/yiguo-sun) and [Thanasis Stengos](https://www.uoguelph.ca/lang/people/thanasis-stengos))  
 <br/> 
 Threshold regression model with mismeasured variables,    
-(Jianhan Zhang,[Yiguo Sun](https://www.uoguelph.ca/lang/people/yiguo-sun))  
+(Jianhan Zhang,[Yiguo Sun](https://www.uoguelph.ca/lang/people/yiguo-sun)) 
+<br/> 
+Endogeneity kink threshold regression model with linear control function approach  
+[[PDF]](https://jianhzhang.github.io/file/Kink_linear_main.pdf),[[APPENDIX]](https://jianhzhang.github.io/file/Kink_linear_app.pdf)  
+(Jianhan Zhang, [Chaoyi Chen](https://www.chenchaoyi.com), [Yiguo Sun](https://www.uoguelph.ca/lang/people/yiguo-sun) and [Thanasis Stengos](https://www.uoguelph.ca/lang/people/thanasis-stengos))  
+<br/> 
 
 ## Working in process 
 Robust Gmm Estimator of Errors-in-Variables model    
