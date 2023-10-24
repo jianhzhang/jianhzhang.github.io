@@ -8,7 +8,7 @@ layout: page
 Here is **Jianhan Zhang (张剑寒)**.      
 I am currently a fifth-year economics Ph.D. candidate at the University of Guelph(Canada) and expect to finish in January 2024. My research interests are econeomtric theory and applied.   
 Most of my works are under the supervision of [Prof. Thanasis Stengos](https://www.uoguelph.ca/lang/people/thanasis-stengos) and [Prof. Yiguo Sun](https://www.uoguelph.ca/lang/people/yiguo-sun). 
-I am on the job market this year and Here is [[my CV](https://jianhzhang.github.io/file/resume_jianhan.pdf)].  
+I am on the job market this year and Here is [[my CV](https://jianhzhang.github.io/file/resume_jianhan_10_24.pdf)].  
 <br>
 
 ## Education  
@@ -33,7 +33,7 @@ I am on the job market this year and Here is [[my CV](https://jianhzhang.github.
 **Abstruct**: We explore a threshold regression model that accommodates potential measurement errors in the regressors, offering valuable insights for the firm's investment model. It is imperative to account for both the mismeasurement of Tobin's Q and the potential threshold effects arising from financial constraints. In the field of econometric theory, we enhance the conventional linear model by incorporating a threshold structure and employing the robust estimator known as the Median of Means (MoM). This approach is designed to address potential issues associated with heavy-tailed data distributions.
 <br/>    
 <br/>  
-**Endogeneity kink threshold regression model with linear control function approach**  [[PDF]](https://jianhzhang.github.io/file/Kink_linear_main.pdf),[[Appendix]](https://jianhzhang.github.io/file/Kink_linear_app.pdf)  
+**Endogeneity kink threshold regression model with linear control function approach**  [[PDF]](https://jianhzhang.github.io/file/Kink_linear_main.pdf)[[Appendix]](https://jianhzhang.github.io/file/Kink_linear_app.pdf)  
 (**Jianhan Zhang**, [Chaoyi Chen](https://www.chenchaoyi.com), [Yiguo Sun](https://www.uoguelph.ca/lang/people/yiguo-sun) and [Thanasis Stengos](https://www.uoguelph.ca/lang/people/thanasis-stengos))  
 <br/>  
 ## Working in process 
