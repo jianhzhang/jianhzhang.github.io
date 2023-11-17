@@ -45,7 +45,7 @@ I am on the job market this year and Here is [[my CV](https://jianhzhang.github.
 ([Chaoyi Chen](https://www.chenchaoyi.com), **Jianhan Zhang** and [Thanasis Stengos](https://www.uoguelph.ca/lang/people/thanasis-stengos))    
 <br/>  
 **Insurance market, natural disaster and economic growth-evidence from a threshold regression model**(Insurance Institute of Canada project(CS000252)),    
-(**Jianhan Zhang**, [Hong Li](https://www.uoguelph.ca/lang/people/hong-li)) and [Thanasis Stengos](https://www.uoguelph.ca/lang/people/thanasis-stengos))   
+(**Jianhan Zhang**, [Hong Li](https://www.uoguelph.ca/lang/people/hong-li) and [Thanasis Stengos](https://www.uoguelph.ca/lang/people/thanasis-stengos))     
 
 
 
