@@ -27,7 +27,7 @@ I am on the job market this year and Here is [[my CV](https://jianhzhang.github.
 **Abstruct**: This paper considers an endogenous kink threshold regression model with an unknown threshold value in a time series as well as a panel data framework, where both the threshold variable and regressors are allowed to be endogenous. We construct our estimators from a nonparametric control function approach and derive the consistency and asymptotic distribution of our proposed estimators. Monte Carlo simulations are used to assess the finite sample performance of our proposed estimators. Finally, we apply our model to analyze the impact of COVID-19 cases on labor markets in the US and Canada. 
 <br/>   
 **Threshold regression model with mismeasured variables**,    
-(**Jianhan Zhang**,[Yiguo Sun](https://www.uoguelph.ca/lang/people/yiguo-sun))   
+(**Jianhan Zhang**, [Yiguo Sun](https://www.uoguelph.ca/lang/people/yiguo-sun))   
 <br/> 
 **Abstruct**: We explore a threshold regression model that accommodates potential measurement errors in the regressors, offering valuable insights for the firm's investment model. It is imperative to account for both the mismeasurement of Tobin's Q and the potential threshold effects arising from financial constraints. In the field of econometric theory, we enhance the conventional linear model by incorporating a threshold structure and employing the robust estimator known as the Median of Means (MoM). This approach is designed to address potential issues associated with heavy-tailed data distributions.
 <br/>    
