@@ -40,7 +40,7 @@ I am on the job market this year and Here is [[my CV](https://jianhzhang.github.
 **Robust Gmm Estimator of Errors-in-Variables model**  
 (**Jianhan Zhang**, [Yiguo Sun](https://www.uoguelph.ca/lang/people/yiguo-sun))  
 
-**Threshold regression model with non-classical measurement error**  
+**Threshold regression model with non-classical measurement errorS**  
 (**Jianhan Zhang**, [Yiguo Sun](https://www.uoguelph.ca/lang/people/yiguo-sun))    
 
 **Kink threshold regression model with latent group structure**(Invited paper by econometrics)  
