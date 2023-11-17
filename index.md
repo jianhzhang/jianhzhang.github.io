@@ -37,13 +37,13 @@ I am on the job market this year and Here is [[my CV](https://jianhzhang.github.
 ## Working in process 
 **Robust Gmm Estimator of Errors-in-Variables model**,    
 (**Jianhan Zhang**, [Yiguo Sun](https://www.uoguelph.ca/lang/people/yiguo-sun))  
-
+<br/>  
 **Threshold regression model with non-classical measurement errorS**,    
 (**Jianhan Zhang**, [Yiguo Sun](https://www.uoguelph.ca/lang/people/yiguo-sun))    
-
+<br/>  
 **Kink threshold regression model with latent group structure**(Invited paper by econometrics),    
 ([Chaoyi Chen](https://www.chenchaoyi.com), **Jianhan Zhang** and [Thanasis Stengos](https://www.uoguelph.ca/lang/people/thanasis-stengos))    
-
+<br/>  
 **Insurance market, natural disaster and economic growth-evidence from a threshold regression model**(Insurance Institute of Canada project(CS000252)),    
 (**Jianhan Zhang**, [Hong Li](https://www.uoguelph.ca/lang/people/hong-li)) and [Thanasis Stengos](https://www.uoguelph.ca/lang/people/thanasis-stengos))   
 
