@@ -23,27 +23,27 @@ The majority of my research endeavors have been conducted under the guidance of 
 
 ---
 ## Working papers  
-**Endogeneity kink threshold regression model**(Resubmitted to **JBES**) [[PDF]](https://jianhzhang.github.io/file/Endogenous_kink.pdf),  
+**Endogeneity Kink Threshold Regression**(Resubmitted to **JBES**) [[PDF]](https://jianhzhang.github.io/file/Endogenous_kink.pdf),  
 (**Jianhan Zhang**, [Chaoyi Chen](https://www.chenchaoyi.com), [Yiguo Sun](https://www.uoguelph.ca/lang/people/yiguo-sun) and [Thanasis Stengos](https://www.uoguelph.ca/lang/people/thanasis-stengos))  
 <br/> 
 **Abstruct**: This paper considers an endogenous kink threshold regression model with an unknown threshold value in a time series as well as a panel data framework, where both the threshold variable and regressors are allowed to be endogenous. We construct our estimators from a nonparametric control function approach and derive the consistency and asymptotic distribution of our proposed estimators. Monte Carlo simulations are used to assess the finite sample performance of our proposed estimators. Finally, we apply our model to analyze the impact of COVID-19 cases on labor markets in the US and Canada. 
 <br/>   
-**Threshold regression model with mismeasured variables**,    
+**Threshold Regression Model with Mismeasured Variables**,    
 (**Jianhan Zhang**, [Yiguo Sun](https://www.uoguelph.ca/lang/people/yiguo-sun))   
 <br/> 
 **Abstruct**:In this article, we consider a threshold regression model with possibly mismeasured regressors. Following [Lewbel(2012)](https://www.tandfonline.com/doi/full/10.1080/07350015.2012.643126), we employ error heteroskedasticity to construct valid moment conditions. This method proves especially useful when instrumental variables or other side information are missing or unreliable. We propose a two-step GMM estimator as well as a robust estimator based on the median of means method to overcome possible heavy-tailed problems. We apply our approach to investigate the potential threshold relationship among investment, Tobin's q, and cash flow.  
 <br/>   
-**Endogeneity kink threshold regression model with linear control function approach**,   
+**Linear Control Function Approach in Endogenous Kink Threshold Regression Models**,   
 (**Jianhan Zhang**, [Chaoyi Chen](https://www.chenchaoyi.com), [Yiguo Sun](https://www.uoguelph.ca/lang/people/yiguo-sun) and [Thanasis Stengos](https://www.uoguelph.ca/lang/people/thanasis-stengos))  
 <br/>  
 ## Working in process 
-**Robust gMM estimation for error-in-variables models**,    
+**Robust Generalized Method of Moments (gMM) Estimation in Error-in-Variables Models**,    
 (**Jianhan Zhang**, [Yiguo Sun](https://www.uoguelph.ca/lang/people/yiguo-sun))  
-**Threshold regression model with non-classical measurement errors**,    
+**Threshold Regression Model with Non-Classical Measurement Errors**,    
 (**Jianhan Zhang**, [Yiguo Sun](https://www.uoguelph.ca/lang/people/yiguo-sun))     
-**Kink threshold regression model with latent group structure**(Invited paper by econometrics),    
+**Latent Group Structure in the Kink Threshold Regression Mode**(Invited paper by econometrics),    
 ([Chaoyi Chen](https://www.chenchaoyi.com), **Jianhan Zhang** and [Thanasis Stengos](https://www.uoguelph.ca/lang/people/thanasis-stengos))    
-**Insurance market, natural disaster and economic growth-evidence from a threshold regression model**(Insurance Institute of Canada project(CS000252)),    
+**Analyzing the Nexus Between Natural Disasters and Economic Growth: Insights from a Threshold Regression Model**(Insurance Institute of Canada project(CS000252)),    
 (**Jianhan Zhang**, [Hong Li](https://www.uoguelph.ca/lang/people/hong-li) and [Thanasis Stengos](https://www.uoguelph.ca/lang/people/thanasis-stengos))     
 
 
