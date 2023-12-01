@@ -6,12 +6,14 @@ layout: page
 
 
 Here is **Jianhan Zhang (张剑寒)**.       
-Currently, I am in my fifth year as a Ph.D. candidate in economics at the University of Guelph in Canada, with an expected completion date in January 2024. My research interests encompass both econometrics theory and applied economics.
+Currently, I am in my fifth year as a Ph.D. candidate in economics at the University of Guelph in Canada, with an expected completion date in January 2024. My research interests encompass both **econometrics theory** and **applied economics**.
 The majority of my research endeavors have been conducted under the guidance of [Prof. Thanasis Stengos](https://www.uoguelph.ca/lang/people/thanasis-stengos) and [Prof. Yiguo Sun](https://www.uoguelph.ca/lang/people/yiguo-sun).  
 <br>
-   **Current research**: Threshold regression/endogeneity/Tobin's q theory  
+   **Current research**: **Threshold regression/endogeneity/Tobin's q theory**  
  <br>
- I am on the job market 2023-2024, here is [[my CV](https://jianhzhang.github.io/file/Jianhan_Zhang_CV_11172023.pdf)]. I can be reached via phone at +1 (519) 731-4389 or via email at <a href="mailto:jzhang56@uoguelph.ca">jzhang56@uoguelph.ca</a>.
+ I am on the job market 2023-2024, here is [[my CV](https://jianhzhang.github.io/file/Jianhan_Zhang_CV_11172023.pdf)].  
+ <br>
+ I can be reached via phone at +1 (519) 731-4389 or via email at <a href="mailto:jzhang56@uoguelph.ca">jzhang56@uoguelph.ca</a>.
 <br>
 
 ## Education  
