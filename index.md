@@ -9,15 +9,11 @@ Here is **Jianhan Zhang (张剑寒)**.
 Currently, I am in my fifth year as a Ph.D. candidate in economics at the University of Guelph in Canada, with an expected completion date in January 2024. My research interests encompass both econometrics theory and applied economics.
 The majority of my research endeavors have been conducted under the guidance of [Prof. Thanasis Stengos](https://www.uoguelph.ca/lang/people/thanasis-stengos) and [Prof. Yiguo Sun](https://www.uoguelph.ca/lang/people/yiguo-sun).  
 <br>
-Primary:   Econometric theory         Current research: Threshold regression model with endogeneity/semiparametric/Robustness estimator  
-Secondary: Financial Econometrics.    Current research: The measurement error on Tobin's q theory   
-           Applied Econometrics,      Current research: COVID-19 on labor market/natural disaster on economic development
-
+   **Current research**: Threshold regression/endogeneity/Tobin's q theory  
+ <br>
  I am on the job market 2023-2024, here is [[my CV](https://jianhzhang.github.io/file/Jianhan_Zhang_CV_11172023.pdf)].  
  <br>
-
  If you require additional information, I can be reached via phone at +1 (519) 731-4389 or via email at jzhang56@uoguelph.ca.     
-
 <br>
 
 ## Education  
@@ -42,7 +38,7 @@ Secondary: Financial Econometrics.    Current research: The measurement error on
 (**Jianhan Zhang**, [Chaoyi Chen](https://www.chenchaoyi.com), [Yiguo Sun](https://www.uoguelph.ca/lang/people/yiguo-sun) and [Thanasis Stengos](https://www.uoguelph.ca/lang/people/thanasis-stengos))  
 <br/>  
 ## Working in process 
-**Robust Gmm Estimator of Errors-in-Variables model**,    
+**Robust gMM estimation for error-in-variables models**,    
 (**Jianhan Zhang**, [Yiguo Sun](https://www.uoguelph.ca/lang/people/yiguo-sun))  
 <br/>  
 **Threshold regression model with non-classical measurement errors**,    
