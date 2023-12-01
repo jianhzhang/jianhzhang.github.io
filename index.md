@@ -6,10 +6,10 @@ layout: page
 
 
 Here is **Jianhan Zhang (张剑寒)**.       
-Currently, I am in my fifth year as a Ph.D. candidate in economics at the University of Guelph in Canada, with an expected completion date in January 2024. My research interests encompass both **econometrics theory** and **applied economics**.
-The majority of my research endeavors have been conducted under the guidance of [Prof. Thanasis Stengos](https://www.uoguelph.ca/lang/people/thanasis-stengos) and [Prof. Yiguo Sun](https://www.uoguelph.ca/lang/people/yiguo-sun).  
-<br>
-   **Current research**: **Threshold regression/endogeneity/Tobin's q theory**  
+Currently, I am in my fifth year as a Ph.D. candidate in economics at the University of Guelph in Canada, with an expected completion date in January 2024. My research interests encompass both **econometrics theory** and **applied economics**.  
+References: [Prof. Thanasis Stengos](https://www.uoguelph.ca/lang/people/thanasis-stengos), [Prof. Yiguo Sun](https://www.uoguelph.ca/lang/people/yiguo-sun).   
+<br> 
+ **Current research**: **Threshold regression/endogeneity/Tobin's q theory**  
  <br>
  I am on the job market 2023-2024, here is [[my CV](https://jianhzhang.github.io/file/Jianhan_Zhang_CV_11172023.pdf)].  
  <br>
@@ -45,7 +45,8 @@ The majority of my research endeavors have been conducted under the guidance of 
 (**Jianhan Zhang**, [Yiguo Sun](https://www.uoguelph.ca/lang/people/yiguo-sun))     
 **Latent Group Structure in the Kink Threshold Regression Mode**(Invited paper by econometrics),    
 ([Chaoyi Chen](https://www.chenchaoyi.com), **Jianhan Zhang** and [Thanasis Stengos](https://www.uoguelph.ca/lang/people/thanasis-stengos))    
-**Analyzing the Nexus Between Natural Disasters and Economic Growth: Insights from a Threshold Regression Model**(Insurance Institute of Canada project(CS000252)),    
+**Analyzing the Nexus Between Natural Disasters and Economic Growth: Insights from a Threshold Regression Model**  
+(Insurance Institute of Canada project(CS000252)),    
 (**Jianhan Zhang**, [Hong Li](https://www.uoguelph.ca/lang/people/hong-li) and [Thanasis Stengos](https://www.uoguelph.ca/lang/people/thanasis-stengos))     
 
 
