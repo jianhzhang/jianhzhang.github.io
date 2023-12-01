@@ -7,7 +7,8 @@ layout: page
 
 Here is **Jianhan Zhang (张剑寒)**.       
 Currently, I am in my fifth year as a Ph.D. candidate in economics at the University of Guelph in Canada, with an expected completion date in January 2024. My research interests encompass both **econometrics theory** and **applied econometrics**.  
-References: [Prof. Thanasis Stengos](https://www.uoguelph.ca/lang/people/thanasis-stengos), [Prof. Yiguo Sun](https://www.uoguelph.ca/lang/people/yiguo-sun), [Prof. Hong Li](https://www.uoguelph.ca/lang/people/hong-li).   
+<br> 
+**References**: [Prof. Thanasis Stengos](https://www.uoguelph.ca/lang/people/thanasis-stengos), [Prof. Yiguo Sun](https://www.uoguelph.ca/lang/people/yiguo-sun), [Prof. Hong Li](https://www.uoguelph.ca/lang/people/hong-li).   
 <br> 
  **Current research**: **Threshold regression/endogeneity/Tobin's q theory**  
  <br>
