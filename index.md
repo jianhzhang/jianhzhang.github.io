@@ -12,7 +12,7 @@ Currently, I am in my fifth year as a Ph.D. candidate in economics at the Univer
 <br> 
  **Current research**: **Threshold regression/endogeneity/Tobin's q theory**  
  <br>
- I am on the job market 2023-2024, here is [[my CV](https://jianhzhang.github.io/file/Jianhan_Zhang_CV_11172023.pdf)].  
+ I am on the job market 2023-2024, here is [[my CV](https://jianhzhang.github.io/file/Resume_JianhanZhang_Dec1.pdf)].
  <br>
  I can be reached via phone at +1 (519) 731-4389 or via email at <a href="mailto:jzhang56@uoguelph.ca">jzhang56@uoguelph.ca</a>.
 <br>
@@ -44,7 +44,7 @@ Currently, I am in my fifth year as a Ph.D. candidate in economics at the Univer
 (**Jianhan Zhang**, [Yiguo Sun](https://www.uoguelph.ca/lang/people/yiguo-sun))  
 **Threshold Regression Model with Non-Classical Measurement Errors**,    
 (**Jianhan Zhang**, [Yiguo Sun](https://www.uoguelph.ca/lang/people/yiguo-sun))     
-**Latent Group Structure in the Kink Threshold Regression Mode**(Invited paper by econometrics),    
+**Latent Group Structure in the Kink Threshold Regression Model**(Invited paper by econometrics),    
 ([Chaoyi Chen](https://www.chenchaoyi.com), **Jianhan Zhang** and [Thanasis Stengos](https://www.uoguelph.ca/lang/people/thanasis-stengos))    
 **Analyzing the Nexus Between Natural Disasters and Economic Growth: Insights from a Threshold Regression Model**  
 (Insurance Institute of Canada project(CS000252)),    
