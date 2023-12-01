@@ -65,10 +65,10 @@ kramdown:
 
 
 # disqus settings:
-disqus:
-  shortname: lancecai
+#disqus:
+ # shortname: lancecai
 
-include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
+#include: [".htaccess"]
+#exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
 
- Latest update in 12/01/2023 by Jianhan Zhang.
+# Latest update in 12/01/2023 by Jianhan Zhang.
