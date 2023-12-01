@@ -11,9 +11,7 @@ The majority of my research endeavors have been conducted under the guidance of 
 <br>
    **Current research**: Threshold regression/endogeneity/Tobin's q theory  
  <br>
- I am on the job market 2023-2024, here is [[my CV](https://jianhzhang.github.io/file/Jianhan_Zhang_CV_11172023.pdf)].  
- <br>
- If you require additional information, I can be reached via phone at +1 (519) 731-4389 or via email at jzhang56@uoguelph.ca.     
+ I am on the job market 2023-2024, here is [[my CV](https://jianhzhang.github.io/file/Jianhan_Zhang_CV_11172023.pdf)]. I can be reached via phone at +1 (519) 731-4389 or via email at <a href="mailto:jzhang56@uoguelph.ca">jzhang56@uoguelph.ca</a>.
 <br>
 
 ## Education  
@@ -33,20 +31,18 @@ The majority of my research endeavors have been conducted under the guidance of 
 **Threshold regression model with mismeasured variables**,    
 (**Jianhan Zhang**, [Yiguo Sun](https://www.uoguelph.ca/lang/people/yiguo-sun))   
 <br/> 
-**Abstruct**:In this article, we consider a threshold regression model with possibly mismeasured regressors. Following [Lewbel(2012)](https://www.tandfonline.com/doi/full/10.1080/07350015.2012.643126), we employ error heteroskedasticity to construct valid moment conditions. This method proves especially useful when instrumental variables or other side information are missing or unreliable. We propose a two-step GMM estimator as well as a robust estimator based on the median of means method to overcome possible heavy-tailed problems. We apply our approach to investigate the potential threshold relationship among investment, Tobin's $q$, and cash flow.
+**Abstruct**:In this article, we consider a threshold regression model with possibly mismeasured regressors. Following [Lewbel(2012)](https://www.tandfonline.com/doi/full/10.1080/07350015.2012.643126), we employ error heteroskedasticity to construct valid moment conditions. This method proves especially useful when instrumental variables or other side information are missing or unreliable. We propose a two-step GMM estimator as well as a robust estimator based on the median of means method to overcome possible heavy-tailed problems. We apply our approach to investigate the potential threshold relationship among investment, Tobin's q, and cash flow.  
+<br/>   
 **Endogeneity kink threshold regression model with linear control function approach**,   
 (**Jianhan Zhang**, [Chaoyi Chen](https://www.chenchaoyi.com), [Yiguo Sun](https://www.uoguelph.ca/lang/people/yiguo-sun) and [Thanasis Stengos](https://www.uoguelph.ca/lang/people/thanasis-stengos))  
 <br/>  
 ## Working in process 
 **Robust gMM estimation for error-in-variables models**,    
 (**Jianhan Zhang**, [Yiguo Sun](https://www.uoguelph.ca/lang/people/yiguo-sun))  
-<br/>  
 **Threshold regression model with non-classical measurement errors**,    
-(**Jianhan Zhang**, [Yiguo Sun](https://www.uoguelph.ca/lang/people/yiguo-sun))    
-<br/>  
+(**Jianhan Zhang**, [Yiguo Sun](https://www.uoguelph.ca/lang/people/yiguo-sun))     
 **Kink threshold regression model with latent group structure**(Invited paper by econometrics),    
 ([Chaoyi Chen](https://www.chenchaoyi.com), **Jianhan Zhang** and [Thanasis Stengos](https://www.uoguelph.ca/lang/people/thanasis-stengos))    
-<br/>  
 **Insurance market, natural disaster and economic growth-evidence from a threshold regression model**(Insurance Institute of Canada project(CS000252)),    
 (**Jianhan Zhang**, [Hong Li](https://www.uoguelph.ca/lang/people/hong-li) and [Thanasis Stengos](https://www.uoguelph.ca/lang/people/thanasis-stengos))     
 
