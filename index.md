@@ -26,7 +26,7 @@ Currently, I am in my fifth year as a Ph.D. candidate in economics at the Univer
 
 ---
 ## Working papers  
-**Endogeneity Kink Threshold Regression**(Resubmitted to **JBES**) [[PDF]](https://jianhzhang.github.io/file/Endogenous_kink.pdf),  
+**Endogeneity Kink Threshold Regression**(R&R **JBES**) [[PDF]](https://jianhzhang.github.io/file/Endogenous_kink.pdf),  
 (**Jianhan Zhang**, [Chaoyi Chen](https://www.chenchaoyi.com), [Yiguo Sun](https://www.uoguelph.ca/lang/people/yiguo-sun) and [Thanasis Stengos](https://www.uoguelph.ca/lang/people/thanasis-stengos))  
 <br/> 
 **Abstruct**: This paper considers an endogenous kink threshold regression model with an unknown threshold value in a time series as well as a panel data framework, where both the threshold variable and regressors are allowed to be endogenous. We construct our estimators from a nonparametric control function approach and derive the consistency and asymptotic distribution of our proposed estimators. Monte Carlo simulations are used to assess the finite sample performance of our proposed estimators. Finally, we apply our model to analyze the impact of COVID-19 cases on labor markets in the US and Canada. 
