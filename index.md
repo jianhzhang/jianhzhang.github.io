@@ -38,14 +38,15 @@ Currently, I am in my fifth year as a Ph.D. candidate in economics at the Univer
 <br/>   
 **Linear Control Function Approach in Endogenous Kink Threshold Regression Models**[[PDF]](https://jianhzhang.github.io/file/Kink_Linear.pdf)[[Appendix]](https://jianhzhang.github.io/file/Kink_Linear_Appendix.pdf),  
 ((**Jianhan Zhang**, [Chaoyi Chen](https://www.chenchaoyi.com), [Yiguo Sun](https://www.uoguelph.ca/lang/people/yiguo-sun) and [Thanasis Stengos](https://www.uoguelph.ca/lang/people/thanasis-stengos))  
-<br/>  
+<br/>   
+**Latent Group Structure in the Kink Threshold Regression Model**( R&R econometrics),[[PDF]](https://www.preprints.org/manuscript/202401.0734/v1),  
+([Chaoyi Chen](https://www.chenchaoyi.com),  [Thanasis Stengos](https://www.uoguelph.ca/lang/people/thanasis-stengos)), **Jianhan Zhang**      
+
 ## Working in process 
 **Robust Generalized Method of Moments (GMM) Estimation in Error-in-Variables Models**,    
 (**Jianhan Zhang**, [Yiguo Sun](https://www.uoguelph.ca/lang/people/yiguo-sun))  
 **Threshold Regression Model with Non-Classical Measurement Errors**,    
-(**Jianhan Zhang**, [Yiguo Sun](https://www.uoguelph.ca/lang/people/yiguo-sun))     
-**Latent Group Structure in the Kink Threshold Regression Model**(Invited paper by econometrics),    
-([Chaoyi Chen](https://www.chenchaoyi.com), **Jianhan Zhang** and [Thanasis Stengos](https://www.uoguelph.ca/lang/people/thanasis-stengos))    
+(**Jianhan Zhang**, [Yiguo Sun](https://www.uoguelph.ca/lang/people/yiguo-sun))      
 **Analyzing the Nexus Between Natural Disasters and Economic Growth: Insights from a Threshold Regression Model**  
 (Insurance Institute of Canada project(CS000252)),    
 (**Jianhan Zhang**, [Hong Li](https://www.uoguelph.ca/lang/people/hong-li) and [Thanasis Stengos](https://www.uoguelph.ca/lang/people/thanasis-stengos))     
