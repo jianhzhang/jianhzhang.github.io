@@ -12,13 +12,13 @@ Currently, I am in my fifth year as a Ph.D. candidate in economics at the Univer
 <br> 
  **Current research**: **Threshold regression/endogeneity/Tobin's q theory**  
  <br>
- I am on the job market 2023-2024, here are [[my CV](https://jianhzhang.github.io/file/Resume_JianhanZhang_Dec1.pdf)] and [[my research statement](https://jianhzhang.github.io/file/JianhanZhang_RS_Dec1.pdf)].
+ I will join School of Statistics, DUFE as an Assistent Professor since September 2024, here are [[my CV](https://jianhzhang.github.io/file/Resume_JianhanZhang_Dec1.pdf)] and [[my research statement](https://jianhzhang.github.io/file/JianhanZhang_RS_Dec1.pdf)].
  <br>
  I can be reached via phone at +1 (519) 731-4389 or via email at <a href="mailto:jzhang56@uoguelph.ca">jzhang56@uoguelph.ca</a>.
 <br>
 
 ## Education  
-** Ph.D.in Economics, Guelph University, 2024(expected)  
+** Ph.D.in Economics, Guelph University, 2024  
 ** M.S. in Economics, Central University of Finance and Economics, 2019  
 ** B.S  in Economics,  Anhui University of Finance and Economics, 2016  
 
@@ -37,10 +37,17 @@ Currently, I am in my fifth year as a Ph.D. candidate in economics at the Univer
 **Abstruct**:In this article, we consider a threshold regression model with possibly mismeasured regressors. Following [Lewbel(2012)](https://www.tandfonline.com/doi/full/10.1080/07350015.2012.643126), we employ error heteroskedasticity to construct valid moment conditions. This method proves especially useful when instrumental variables or other side information are missing or unreliable. We propose a two-step GMM estimator as well as a robust estimator based on the median of means method to overcome possible heavy-tailed problems. We apply our approach to investigate the potential threshold relationship among investment, Tobin's q, and cash flow.  
 <br/>   
 **Linear Control Function Approach in Endogenous Kink Threshold Regression Models**[[PDF]](https://jianhzhang.github.io/file/Kink_Linear.pdf)[[Appendix]](https://jianhzhang.github.io/file/Kink_Linear_Appendix.pdf),  
-((**Jianhan Zhang**, [Chaoyi Chen](https://www.chenchaoyi.com), [Yiguo Sun](https://www.uoguelph.ca/lang/people/yiguo-sun) and [Thanasis Stengos](https://www.uoguelph.ca/lang/people/thanasis-stengos))  
+((**Jianhan Zhang**, [Chaoyi Chen](https://www.chenchaoyi.com), [Yiguo Sun](https://www.uoguelph.ca/lang/people/yiguo-sun) and [Thanasis Stengos](https://www.uoguelph.ca/lang/people/thanasis-stengos))    
 <br/>   
-**Latent Group Structure in the Kink Threshold Regression Model**( R&R econometrics)[[PDF]](https://www.preprints.org/manuscript/202401.0734/v1),  
-([Chaoyi Chen](https://www.chenchaoyi.com),  [Thanasis Stengos](https://www.uoguelph.ca/lang/people/thanasis-stengos)), **Jianhan Zhang**      
+**Continuity Testing for Threshold Regression Models**, [[PDF]](https://jianhzhang.github.io/file/Endogenous_kink.pdf),   
+(**Jianhan Zhang**, [Yiguo Sun](https://www.uoguelph.ca/lang/people/yiguo-sun))   
+
+
+
+
+## Publications
+**Latent Group Structure in the Kink Threshold Regression Model**[[Econometrics]](https://www.mdpi.com/2225-1146/12/1/7),  
+([Chaoyi Chen](https://www.chenchaoyi.com),  [Thanasis Stengos](https://www.uoguelph.ca/lang/people/thanasis-stengos),**Jianhan Zhang**)      
 
 ## Working in process 
 **Robust Generalized Method of Moments (GMM) Estimation in Error-in-Variables Models**,    
