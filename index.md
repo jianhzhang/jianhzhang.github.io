@@ -39,7 +39,7 @@ Currently, I am in my fifth year as a Ph.D. candidate in economics at the Univer
 **Linear Control Function Approach in Endogenous Kink Threshold Regression Models**[[PDF]](https://jianhzhang.github.io/file/Kink_Linear.pdf)[[Appendix]](https://jianhzhang.github.io/file/Kink_Linear_Appendix.pdf),  
 ((**Jianhan Zhang**, [Chaoyi Chen](https://www.chenchaoyi.com), [Yiguo Sun](https://www.uoguelph.ca/lang/people/yiguo-sun) and [Thanasis Stengos](https://www.uoguelph.ca/lang/people/thanasis-stengos))    
 <br/>   
-**Continuity Testing for Threshold Regression Models**[[PDF]](https://jianhzhang.github.io/file/Endogenous_kink.pdf),   
+**Continuity Testing for Threshold Regression Models**[[PDF]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4846470),   
 (**Jianhan Zhang**, [Yiguo Sun](https://www.uoguelph.ca/lang/people/yiguo-sun))   
 
 
