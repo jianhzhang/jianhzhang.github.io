@@ -6,7 +6,7 @@ layout: page
 
 
 Here is **Jianhan Zhang (张剑寒)**.       
-I am an Assistent Professor at School of Statistics, DUFE. My research interests encompass both **econometrics theory** and **applied econometrics**.  
+I am an Assistent Professor at School of Statistics, [[DUFE](https://www.dufe.edu.cn)]. My research interests encompass both **econometrics theory** and **applied econometrics**.  
 <br> 
 **References**: [Prof. Thanasis Stengos](https://www.uoguelph.ca/lang/people/thanasis-stengos), [Prof. Yiguo Sun](https://www.uoguelph.ca/lang/people/yiguo-sun), [Prof. Hong Li](https://www.uoguelph.ca/lang/people/hong-li).   
 <br> 
@@ -14,7 +14,7 @@ I am an Assistent Professor at School of Statistics, DUFE. My research interests
  <br>
  I am an Assistent Professor at School of Statistics, [[DUFE](https://www.dufe.edu.cn)], here are [[my CV](https://jianhzhang.github.io/file/Resume_JianhanZhang_Dec1.pdf)] and [[my research statement](https://jianhzhang.github.io/file/JianhanZhang_RS_Dec1.pdf)].
  <br>
- I can be reached via email at <a href="mailto:[jzhang56@uoguelph.ca](https://www.dufe.edu.cn)">[jzhang56@uoguelph.ca](https://www.dufe.edu.cn)</a>.
+ I can be reached via email at jianhanzhang@dufe.edu.cn.
 <br>
 
 ## Education  
