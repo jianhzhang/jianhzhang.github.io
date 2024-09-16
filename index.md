@@ -12,8 +12,6 @@ I am an Assistent Professor at School of Statistics, [[DUFE](https://www.dufe.ed
 <br> 
  **Current research**: **Threshold regression/endogeneity/Tobin's q theory**  
  <br>
- I am an Assistent Professor at School of Statistics, [[DUFE](https://www.dufe.edu.cn)], here are [[my CV](https://jianhzhang.github.io/file/Resume_JianhanZhang_Dec1.pdf)] and [[my research statement](https://jianhzhang.github.io/file/JianhanZhang_RS_Dec1.pdf)].
- <br>
  I can be reached via email at jianhanzhang@dufe.edu.cn.
 <br>
 
