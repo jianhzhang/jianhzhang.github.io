@@ -24,11 +24,6 @@ I am an Assistent Professor at School of Statistics, [[DUFE](https://www.dufe.ed
 
 ---
 ## Working papers  
-**Endogeneity Kink Threshold Regression**(Accepted **JBES**) [[PDF]](https://jianhzhang.github.io/file/Endogenous_kink.pdf),  
-(**Jianhan Zhang**, [Chaoyi Chen](https://www.chenchaoyi.com), [Yiguo Sun](https://www.uoguelph.ca/lang/people/yiguo-sun) and [Thanasis Stengos](https://www.uoguelph.ca/lang/people/thanasis-stengos))  
-<br/> 
-**Abstruct**: This paper considers an endogenous kink threshold regression model with an unknown threshold value in a time series as well as a panel data framework, where both the threshold variable and regressors are allowed to be endogenous. We construct our estimators from a nonparametric control function approach and derive the consistency and asymptotic distribution of our proposed estimators. Monte Carlo simulations are used to assess the finite sample performance of our proposed estimators. Finally, we apply our model to analyze the impact of COVID-19 cases on labor markets in the US and Canada. 
-<br/>   
 **Threshold Regression Model with Mismeasured Variables**,    
 (**Jianhan Zhang**, [Yiguo Sun](https://www.uoguelph.ca/lang/people/yiguo-sun))   
 <br/> 
@@ -44,6 +39,10 @@ I am an Assistent Professor at School of Statistics, [[DUFE](https://www.dufe.ed
 
 
 ## Publications
+
+**Endogeneity Kink Threshold Regression**[[JBES]](https://www.tandfonline.com/doi/full/10.1080/07350015.2024.2407634?src=exp-la),   
+(**Jianhan Zhang**, [Chaoyi Chen](https://www.chenchaoyi.com), [Yiguo Sun](https://www.uoguelph.ca/lang/people/yiguo-sun) and [Thanasis Stengos](https://www.uoguelph.ca/lang/people/thanasis-stengos))  
+<br/> 
 **Latent Group Structure in the Kink Threshold Regression Model**[(Econometrics)](https://www.mdpi.com/2225-1146/12/1/7),  
 ([Chaoyi Chen](https://www.chenchaoyi.com),  [Thanasis Stengos](https://www.uoguelph.ca/lang/people/thanasis-stengos),**Jianhan Zhang**)      
 
