@@ -8,18 +8,9 @@ layout: page
 Here is **Jianhan Zhang (张剑寒)**.       
 I am an Assistent Professor at School of Statistics, [[DUFE](https://www.dufe.edu.cn)]. My research interests encompass both **econometrics theory** and **applied econometrics**.  
 <br> 
-**References**: [Prof. Thanasis Stengos](https://www.uoguelph.ca/lang/people/thanasis-stengos), [Prof. Yiguo Sun](https://www.uoguelph.ca/lang/people/yiguo-sun), [Prof. Hong Li](https://www.uoguelph.ca/lang/people/hong-li).   
-<br> 
  **Current research**: **Threshold regression/endogeneity/Tobin's q theory**  
  <br>
  I can be reached via email at jianhanzhang@dufe.edu.cn.
-<br>
-
-## Education  
-** Ph.D.in Economics, Guelph University, 2024  
-** M.S. in Economics, Central University of Finance and Economics, 2019  
-** B.S  in Economics,  Anhui University of Finance and Economics, 2016  
-
 <br>
 
 ---
@@ -40,10 +31,12 @@ I am an Assistent Professor at School of Statistics, [[DUFE](https://www.dufe.ed
 
 ## Publications
 
-**Endogeneity Kink Threshold Regression**[(JBES)](https://www.tandfonline.com/doi/full/10.1080/07350015.2024.2407634?src=exp-la),   
+**Endogeneity Kink Threshold Regression**,     
+[(Journal of Business and Economic Statistics)](https://www.tandfonline.com/doi/full/10.1080/07350015.2024.2407634?src=exp-la)    
 (**Jianhan Zhang**, [Chaoyi Chen](https://www.chenchaoyi.com), [Yiguo Sun](https://www.uoguelph.ca/lang/people/yiguo-sun) and [Thanasis Stengos](https://www.uoguelph.ca/lang/people/thanasis-stengos))  
 <br/> 
-**Latent Group Structure in the Kink Threshold Regression Model**[(Econometrics)](https://www.mdpi.com/2225-1146/12/1/7),  
+**Latent Group Structure in the Kink Threshold Regression Model**,  
+[(Econometrics)](https://www.mdpi.com/2225-1146/12/1/7)  
 ([Chaoyi Chen](https://www.chenchaoyi.com),  [Thanasis Stengos](https://www.uoguelph.ca/lang/people/thanasis-stengos),**Jianhan Zhang**)      
 
 ## Working in process 
