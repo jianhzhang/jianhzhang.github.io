@@ -29,7 +29,7 @@ I am an Assistent Professor at School of Statistics, [[DUFE](https://www.dufe.ed
 ## Publications
 
 **Endogeneity Kink Threshold Regression**,     
-[(Journal of Business and Economic Statistics)](https://www.tandfonline.com/doi/full/10.1080/07350015.2024.2407634?src=exp-la)    
+[(<font color="blue">Journal of Business and Economic Statistics </font>)](https://www.tandfonline.com/doi/full/10.1080/07350015.2024.2407634?src=exp-la)    
 (**Jianhan Zhang**, [Chaoyi Chen](https://www.chenchaoyi.com), [Yiguo Sun](https://www.uoguelph.ca/lang/people/yiguo-sun) and [Thanasis Stengos](https://www.uoguelph.ca/lang/people/thanasis-stengos))  
 <br/> 
 **Latent Group Structure in the Kink Threshold Regression Model**,  
