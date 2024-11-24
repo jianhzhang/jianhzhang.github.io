@@ -2,9 +2,6 @@
 layout: page
 ---
 
-# About Me
-
-
 Here is **Jianhan Zhang (张剑寒)**.       
 I am an Assistent Professor at School of Statistics, [[DUFE](https://www.dufe.edu.cn)]. My research interests encompass both **econometrics theory** and **applied econometrics**.  
 <br> 
@@ -49,7 +46,8 @@ I am an Assistent Professor at School of Statistics, [[DUFE](https://www.dufe.ed
 (**Jianhan Zhang**, [Hong Li](https://www.uoguelph.ca/lang/people/hong-li) and [Thanasis Stengos](https://www.uoguelph.ca/lang/people/thanasis-stengos))     
 
 
-
+## Referee
+Empirical Economics/Journal of Statistical Computation and Simulation  
 
 <br>
 
