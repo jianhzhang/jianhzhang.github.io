@@ -52,8 +52,12 @@ Empirical Economics/Journal of Statistical Computation and Simulation
 <br>
 
 ## Teaching  
-**Econ 2740 Economic stastics**(2nd year undergraduate student)  
-University of Guelph  Fall 2023  [[Syllabus](https://jianhzhang.github.io/file/ECON_2740_03_F23.pdf)].
+**Econ 2740 Economic Statistics**(U of Guelph)  
+Fall 2023/Spring 2024  [[Syllabus](https://jianhzhang.github.io/file/ECON_2740_03_F23.pdf)].  
+**Statistics**(DUFE)  
+Spring 2024 
+**Business Statistics**(DUFE)  
+Spring 2024
 
 
 ---
