@@ -55,9 +55,9 @@ Empirical Economics/Journal of Statistical Computation and Simulation
 **Econ 2740 Economic Statistics**(U of Guelph)  
 Fall 2023/Spring 2024  [[Syllabus](https://jianhzhang.github.io/file/ECON_2740_03_F23.pdf)].  
 **Statistics**(DUFE)  
-Spring 2024   
+Spring 2025   
 **Business Statistics**(DUFE)  
-Spring 2024
+Spring 2025
 
 
 ---
