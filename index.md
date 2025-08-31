@@ -3,6 +3,7 @@ layout: page
 ---
 
 Here is **Jianhan Zhang (张剑寒)**. I earned my PhD in Economics from the University of Guelph in 2024, under the supervision of Professors Thanasis Stengos and Yiguo Sun.  
+
 I am currently an Assistent Professor at School of Statistics, [[DUFE](https://www.dufe.edu.cn)]. My research interests encompass both **econometrics theory** and **applied econometrics**.  
 <br> 
  **Current research**: **Threshold regression/endogeneity/Spatial Model/Tobin's q theory**  
@@ -38,7 +39,7 @@ I am currently an Assistent Professor at School of Statistics, [[DUFE](https://w
 
 
 ## Referee
-Empirical Economics*2/Journal of Statistical Computation and Simulation*3  
+Empirical Economics*2/Journal of Statistical Computation and Simulation*3    
 
 <br>
 
@@ -48,8 +49,8 @@ Fall 2023/Spring 2024  [[Syllabus](https://jianhzhang.github.io/file/ECON_2740_0
 **Statistics**(DUFE)  
 Spring 2025   
 **Business Statistics**(DUFE)  
-Spring 2025
-**nterpretation of Economic Indicators**(DUFE)  
+Spring 2025  
+**Interpretation of Economic Indicators**(DUFE)  
 Fall 2025  
 
 ---
