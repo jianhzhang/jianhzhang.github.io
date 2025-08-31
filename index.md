@@ -13,10 +13,10 @@ I am currently an Assistent Professor at School of Statistics, [[DUFE](https://w
 
 ---
 ## Working papers  
-**Threshold Regression Model with Mismeasured Variables**(submitted),    
+**Measurement Error in Threshold Regression: Robust Estimation and Inference**(submitted),    
 (**Jianhan Zhang**, [Yiguo Sun](https://www.uoguelph.ca/lang/people/yiguo-sun))   
 <br/> 
-**Abstruct**:In this article, we consider a threshold regression model with possibly mismeasured regressors. Following [Lewbel(2012)](https://www.tandfonline.com/doi/full/10.1080/07350015.2012.643126), we employ error heteroskedasticity to construct valid moment conditions. This method proves especially useful when instrumental variables or other side information are missing or unreliable. We propose a two-step GMM estimator as well as a robust estimator based on the median of means method to overcome possible heavy-tailed problems. We apply our approach to investigate the potential threshold relationship among investment, Tobin's q, and cash flow.  
+**Abstruct**:In this article, we study a threshold regression model in the presence of potentially mismeasured regressors. Exploiting a verifiable nonlinear relationship between the mismeasured variables and other observed covariates, we propose a novel two-step GMM estimator, along with a robust alternative based on the median-of-means gradient to address potential issues arising from heavy-tailed distributions. This approach is particularly useful when instrumental variables or other auxiliary information are unavailable or unreliable. Finally, we apply our methodology to examine the potential threshold relationship among investment, Tobin’s $q$, and cash flow.    
 <br/>   
 **Linear Control Function Approach in Endogenous Kink Threshold Regression Models**[[PDF]](https://jianhzhang.github.io/file/Kink_Linear.pdf)[[Appendix]](https://jianhzhang.github.io/file/Kink_Linear_Appendix.pdf),  
 ((**Jianhan Zhang**, [Chaoyi Chen](https://www.chenchaoyi.com), [Yiguo Sun](https://www.uoguelph.ca/lang/people/yiguo-sun) and [Thanasis Stengos](https://www.uoguelph.ca/lang/people/thanasis-stengos))    
