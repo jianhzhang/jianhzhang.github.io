@@ -39,7 +39,7 @@ I am currently an Assistent Professor at School of Statistics, [[DUFE](https://w
 
 
 ## Referee
-Empirical Economics*2/Journal of Statistical Computation and Simulation*3    
+Empirical Economics*2/ JSCS*3  
 
 <br>
 
