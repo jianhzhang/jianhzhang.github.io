@@ -19,7 +19,6 @@ My research interests encompass both **econometrics theory** and **applied econo
 ## Working papers  
 **Measurement Error in Threshold Regression: Robust Estimation and Inference** (Under Review),    
 (**Jianhan Zhang**, [Yiguo Sun](https://www.uoguelph.ca/lang/people/yiguo-sun))   
-
 <br/>   
 **Linear Control Function Approach in Endogenous Kink Threshold Regression Models**[[PDF]](https://jianhzhang.github.io/file/Kink_Linear.pdf)[[Appendix]](https://jianhzhang.github.io/file/Kink_Linear_Appendix.pdf),  
 ((**Jianhan Zhang**, [Chaoyi Chen](https://www.chenchaoyi.com), [Yiguo Sun](https://www.uoguelph.ca/lang/people/yiguo-sun) and [Thanasis Stengos](https://www.uoguelph.ca/lang/people/thanasis-stengos))    
